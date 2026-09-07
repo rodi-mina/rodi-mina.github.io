@@ -1,3 +1,9 @@
+<style>
+.site-footer {
+  display: none;
+}
+</style>
+
 <div style="display:flex !important; align-items:center; gap:32px; margin-bottom:32px; flex-wrap:nowrap;">
 
   <img src="IMG_20260907_192033.jpg"
