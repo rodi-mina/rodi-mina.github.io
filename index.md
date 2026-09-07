@@ -56,7 +56,15 @@ ORCID: https://orcid.org/0009-0007-5313-030X
 - Giannakopoulos, G., Gkouvousi, A., Belsis, P., Paliouras, G., Papatheodorou, C., <strong>Rodi, A.</strong>, & Skourlas, C. (2007). *Εξατομίκευση διδασκαλίας και πληροφόρησης στην ανώτατη εκπαίδευση* [Personalization of teaching and information provision in higher education]. *e-Journal of Science & Technology, 2*(3), 1–18.
 
 
+## Education
 
+<strong>MSc in Information Science</strong>  
+Ionian University, Department of Archives and Library Science, 2006–2008  
+Master’s thesis: <em>Personalization and Content-Based Cross-Language Information Retrieval</em>
+
+<strong>Degree in Library Science and Information Systems</strong>  
+Technological Educational Institute of Athens, Department of Library Science and Information Systems, 2000–2004  
+Undergraduate thesis: <em>Digital Libraries and an Overview of Greenstone Digital Library Software</em>
 
 
 
