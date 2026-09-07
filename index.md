@@ -119,6 +119,24 @@ ALEPH 24, Horizon, Millennium, ABEKT, OpenABEKT, ADVANCE, Koha, and DSpace.
 
 Python and SQL at intermediate level.
 
+## Professional Development
+
+<strong>Introduction to Programming with Python</strong>  
+University of Ioannina, Center for Continuing Education and Lifelong Learning, 2025  
+Certificate of Completion · 60 hours · Distance learning
+
+<strong>Object-Oriented Design with Unified Modeling Language (UML)</strong>  
+Technological Educational Institute of Lamia, 2007–2008  
+Online training course
+
+
+## Languages
+
+Greek: Native  
+English: Michigan Advanced Proficiency in English; Cambridge First Certificate in English  
+Italian: Basic knowledge
+
+
 ## CV
 
 <a href="Rodi_Mina_cv_public_eng.pdf" target="_blank" style="display:inline-block; padding:8px 14px; border:1px solid #999; border-radius:6px; text-decoration:none; font-weight:500;">
