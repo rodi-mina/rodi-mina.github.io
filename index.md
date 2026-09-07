@@ -1,9 +1,22 @@
-<img src="IMG_20260907_192033.jpg" alt="Portrait of Mina Rodi" width="220">
+<div style="display:flex; align-items:center; gap:28px; margin-bottom:32px; flex-wrap:wrap;">
 
-Assistant Librarian, Periodicals · PhD Candidate in Information Science
+  <img src="IMG_20260907_192033.jpg"
+       alt="Portrait of Mina Rodi"
+       width="220"
+       style="border-radius:8px;">
 
-The Gennadius Library, American School of Classical Studies at Athens  
-Ionian University
+  <div>
+    <h1 style="margin-bottom:8px;">RODI, Mina</h1>
+    <p style="font-size:1.15em; margin:0 0 14px 0;">
+      Assistant Librarian, Periodicals · PhD Candidate in Information Science
+    </p>
+    <p style="margin:0;">
+      The Gennadius Library, American School of Classical Studies at Athens<br>
+      Ionian University
+    </p>
+  </div>
+
+</div>
 
 ## About
 
