@@ -42,11 +42,6 @@ My research interests lie at the intersection of Computational Linguistics, Natu
 
 My doctoral research investigates the capabilities and limitations of Large Language Models for interpreting emotions in literary narrative, particularly when emotional meaning is implicit, context-dependent, and distributed across characters, events, and narrative perspective.
 
-## Contact
-
-Email: mina.mfh@gmail.com  
-ORCID: https://orcid.org/0009-0007-5313-030X
-
 ## Publications & Conference Papers
 
 - Kalogeros, E., <strong>Rodi, M.</strong>, Stamou, S., Micheli, A., Karakitsiou, C., & Gergatsoulis, M. (2026). *Chasing emotion: A preliminary study of implicit and explicit emotion classification in Greek using SetFit and sentence embeddings.* Paper accepted for presentation at the 12th Balkan Conference in Informatics (BCI 2026), Thessaloniki, Greece, 11–14 October 2026.
@@ -67,7 +62,32 @@ Technological Educational Institute of Athens, Department of Library Science and
 Undergraduate thesis: <em>Digital Libraries and an Overview of Greenstone Digital Library Software</em>
 
 
+## Professional Experience
+
+<strong>Assistant Librarian, Periodicals</strong>  
+The Gennadius Library, American School of Classical Studies at Athens  
+2014–Present
+
+- Manage periodicals processing and cataloguing workflows in ALEPH 24, including check-in, metadata standardization, RFID processing, claims, and binding.
+- Perform original and copy cataloguing of donations from private collections.
+- Contribute to collection development through acquisition recommendations and the evaluation and coordination of donated materials.
+- Provide reference services and orientations for new library patrons.
+
+<strong>Serials Cataloguer</strong>  
+The Gennadius Library, American School of Classical Studies at Athens  
+2007–2014
+
+- Performed retrospective cataloguing of post-revolutionary Greek and foreign periodicals and newspapers.
+- Enhanced catalogue records with electronic resources and descriptions of supplementary material found within periodical publications.
+- Documented inserts preserved within periodical volumes, including correspondence between Joannes Gennadius and publishers.
 
 
+## Technical Skills
+
+MARC 21, UNIMARC, Dublin Core, BIBFRAME, EAD, RDF, XML, ISO 2709, Z39.50, ontologies and taxonomies; AACR2, RDA, ISBD, LCSH, LCC, DDC, and authority control.
+
+ALEPH 24, Horizon, Millennium, ABEKT, OpenABEKT, ADVANCE, Koha, and DSpace.
+
+Python and SQL at intermediate level.
 
 
