@@ -1,6 +1,6 @@
 # Mina Rodi
 
-**Assistant Librarian, Periodicals | PhD Candidate in Information Science**
+Assistant Librarian, Periodicals · PhD Candidate in Information Science
 
 The Gennadius Library, American School of Classical Studies at Athens  
 Ionian University
