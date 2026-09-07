@@ -2,6 +2,7 @@
 .site-footer {
   display: none;
 }
+
 .nav-links {
   margin: 0 0 28px 0;
   font-size: 0.95em;
@@ -15,6 +16,16 @@
 
 .nav-links a:hover {
   text-decoration: underline;
+}
+
+h2 {
+  margin-top: 34px;
+  margin-bottom: 14px;
+  color: #2f5d7c;
+}
+
+p {
+  line-height: 1.6;
 }
 </style>
 <div class="nav-links">
