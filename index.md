@@ -1,4 +1,4 @@
-# Mina Rodi
+
 
 Assistant Librarian, Periodicals · PhD Candidate in Information Science
 
