@@ -2,7 +2,30 @@
 .site-footer {
   display: none;
 }
+.nav-links {
+  margin: 0 0 28px 0;
+  font-size: 0.95em;
+}
+
+.nav-links a {
+  text-decoration: none;
+  margin-right: 14px;
+  font-weight: 500;
+}
+
+.nav-links a:hover {
+  text-decoration: underline;
+}
 </style>
+<div class="nav-links">
+  <a href="#about">About</a>
+  <a href="#research-interests">Research</a>
+  <a href="#publications--conference-papers">Publications</a>
+  <a href="#education">Education</a>
+  <a href="#professional-experience">Experience</a>
+  <a href="#cv">CV</a>
+  <a href="#contact">Contact</a>
+</div>
 
 <div style="display:flex !important; align-items:center; gap:32px; margin-bottom:32px; flex-wrap:nowrap;">
 
