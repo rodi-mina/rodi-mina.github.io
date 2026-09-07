@@ -1,4 +1,4 @@
-
+<img src="IMG_20260907_192033.jpg" alt="Portrait of Mina Rodi" width="220">
 
 Assistant Librarian, Periodicals · PhD Candidate in Information Science
 
