@@ -41,9 +41,9 @@ p {
 <div style="display:flex !important; align-items:center; gap:36px; margin-top:18px; margin-bottom:36px; flex-wrap:nowrap;">
 
   <img src="IMG_20260907_192033.jpg"
-       alt="Portrait of Mina Rodi"
-       width="220"
-       style="border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.08);"
+     alt="Portrait of Mina Rodi"
+     width="220"
+     style="border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.08);">
 
   <div>
     <p style="font-size:1.15em; margin:0 0 14px 0;">
