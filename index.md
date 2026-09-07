@@ -123,6 +123,7 @@ ALEPH 24, Horizon, Millennium, ABEKT, OpenABEKT, ADVANCE, Koha, and DSpace.
 
 Python and SQL at intermediate level.
 
+
 ## Professional Development
 
 <strong>Introduction to Programming with Python</strong>  
@@ -143,9 +144,19 @@ Italian: Basic knowledge
 
 ## CV
 
-<a href="Rodi_Mina_cv_public_eng.pdf" target="_blank" style="display:inline-block; padding:8px 14px; border:1px solid #999; border-radius:6px; text-decoration:none; font-weight:500;">
+<a href="Rodi_Mina_cv_public_eng.pdf"
+   target="_blank"
+   style="
+   display:inline-block;
+   padding:10px 16px;
+   border:1px solid #888;
+   border-radius:8px;
+   text-decoration:none;
+   font-weight:600;
+   margin-top:6px;">
   Download CV
 </a>
+
 
 ## Contact
 
