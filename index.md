@@ -20,6 +20,10 @@
   .site-title {
   color: #2f5d7c;
 }
+  .site-header .site-title,
+.site-header .site-title:visited {
+  color: #2f5d7c;
+}
 .nav-links a:link,
 .nav-links a:visited {
   color: #2f5d7c;
