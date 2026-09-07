@@ -1,4 +1,4 @@
-<div style="display:flex; align-items:center; gap:28px; margin-bottom:32px; flex-wrap:wrap;">
+<div style="display:flex !important; align-items:center; gap:32px; margin-bottom:32px; flex-wrap:nowrap;">
 
   <img src="IMG_20260907_192033.jpg"
        alt="Portrait of Mina Rodi"
@@ -6,7 +6,6 @@
        style="border-radius:8px;">
 
   <div>
-    <h1 style="margin-bottom:8px;">RODI, Mina</h1>
     <p style="font-size:1.15em; margin:0 0 14px 0;">
       Assistant Librarian, Periodicals · PhD Candidate in Information Science
     </p>
