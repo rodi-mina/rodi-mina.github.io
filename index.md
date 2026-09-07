@@ -5,19 +5,18 @@
 
 .nav-links {
   margin: 0 0 28px 0;
-  font-size: 0.95em;
-}
-
-.nav-links a {
-  text-decoration: none;
-  margin-right: 14px;
-  font-weight: 500;
+  font-size: 0.85em;
+  white-space: nowrap;
 }
 
 .nav-links a:hover {
   text-decoration: underline;
 }
-
+.nav-links a {
+  text-decoration: none;
+  margin-right: 10px;
+  font-weight: 500;
+}
 h2 {
   margin-top: 34px;
   margin-bottom: 14px;
