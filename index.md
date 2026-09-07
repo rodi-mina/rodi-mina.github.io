@@ -121,7 +121,7 @@ Python and SQL at intermediate level.
 
 ## CV
 
-<a href="Rodi_Mina_cv_eng.pdf" target="_blank" style="display:inline-block; padding:8px 14px; border:1px solid #999; border-radius:6px; text-decoration:none; font-weight:500;">
+<a href="Rodi_Mina_cv_public_eng.pdf" target="_blank" style="display:inline-block; padding:8px 14px; border:1px solid #999; border-radius:6px; text-decoration:none; font-weight:500;">
   Download CV
 </a>
 
