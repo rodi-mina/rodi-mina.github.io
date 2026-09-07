@@ -102,7 +102,7 @@ Python and SQL at intermediate level.
 
 ## Contact
 
-Email: mina.mfh@gmail.com  
-ORCID: https://orcid.org/0009-0007-5313-030X
+Email: <a href="mailto:mina.mfh@gmail.com">mina.mfh@gmail.com</a><br>
+ORCID: <a href="https://orcid.org/0009-0007-5313-030X" target="_blank">0009-0007-5313-030X</a>
 
 
