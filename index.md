@@ -46,3 +46,16 @@ My doctoral research investigates the capabilities and limitations of Large Lang
 
 Email: mina.mfh@gmail.com  
 ORCID: https://orcid.org/0009-0007-5313-030X
+
+## Publications & Conference Papers
+
+- Kalogeros, E., <strong>Rodi, M.</strong>, Stamou, S., Micheli, A., Karakitsiou, C., & Gergatsoulis, M. (2026). *Chasing emotion: A preliminary study of implicit and explicit emotion classification in Greek using SetFit and sentence embeddings.* Paper accepted for presentation at the 12th Balkan Conference in Informatics (BCI 2026), Thessaloniki, Greece, 11–14 October 2026.
+
+- Solomonidi, I., <strong>Rodi, A.</strong>, & Tsononas, G. (2025). *Enabling discovery: Open access to rare historical maps and 19th-century Greek journals from the Gennadius Library collection via the library’s catalogue.* Paper presented at the EEBEP Conference 2025, Kalabaka, Greece, 11–13 June 2025. Manuscript submitted for inclusion in the conference proceedings.
+
+- Giannakopoulos, G., Gkouvousi, A., Belsis, P., Paliouras, G., Papatheodorou, C., <strong>Rodi, A.</strong>, & Skourlas, C. (2007). *Εξατομίκευση διδασκαλίας και πληροφόρησης στην ανώτατη εκπαίδευση* [Personalization of teaching and information provision in higher education]. *e-Journal of Science & Technology, 2*(3), 1–18.
+
+
+
+Email: mina.mfh@gmail.com  
+ORCID: https://orcid.org/0009-0007-5313-030X
