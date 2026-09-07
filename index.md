@@ -17,7 +17,11 @@
   margin-right: 10px;
   font-weight: 500;
 }
-h2 {
+.nav-links a:link,
+.nav-links a:visited {
+  color: #2f5d7c;
+}
+  h2 {
   margin-top: 34px;
   margin-bottom: 14px;
   color: #2f5d7c;
