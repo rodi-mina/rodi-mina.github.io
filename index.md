@@ -34,8 +34,10 @@ p {
   <a href="#publications--conference-papers">Publications</a>
   <a href="#education">Education</a>
   <a href="#professional-experience">Experience</a>
+  <a href="#professional-development">Development</a>
+  <a href="#languages">Languages</a>
   <a href="#cv">CV</a>
-  <a href="#contact">Contact</a>
+  <a href="#contact--academic-profiles">Contact</a>
 </div>
 
 <div style="display:flex !important; align-items:center; gap:36px; margin-top:18px; margin-bottom:36px; flex-wrap:nowrap;">
@@ -61,7 +63,7 @@ p {
 
 I am an Assistant Librarian responsible for the Periodicals Collection at the Gennadius Library of the American School of Classical Studies at Athens, and a PhD Candidate in Information Science at Ionian University.
 
-My research interests lie at the intersection of Computational Linguistics, Natural Language Processing, Large Language Models, Computational Literary Studies, and Digital Humanities. My doctoral research focuses on context-aware emotion detection and reasoning in literary texts, with particular emphasis on implicit emotion, narrative context, cognitive appraisal, relational emotion structure, and evidence-grounded explanations.
+My research interests lie at the intersection of Computational Linguistics, Natural Language Processing, Computational Literary Studies, and Digital Humanities. My doctoral research investigates the capabilities and limitations of Large Language Models for context-aware emotion detection and reasoning in literary texts, with particular emphasis on implicit emotion, narrative context, relational emotion structure, cognitive appraisal, and evidence-grounded interpretation.
 
 ## Research Interests
 
@@ -76,7 +78,7 @@ My research interests lie at the intersection of Computational Linguistics, Natu
   <span style="border:1px solid #ccc; border-radius:14px; padding:5px 10px;">Narrative Context</span>
   <span style="border:1px solid #ccc; border-radius:14px; padding:5px 10px;">Cognitive Appraisal</span>
   <span style="border:1px solid #ccc; border-radius:14px; padding:5px 10px;">Multilingual and Cross-Lingual Emotion Analysis</span>
-  <span style="border:1px solid #ccc; border-radius:14px; padding:5px 10px;">Evidence-Grounded NLP</span>
+  <span style="border:1px solid #ccc; border-radius:14px; padding:5px 10px;">Evidence-Grounded Emotion Reasoning</span>
 
 </div>
 
@@ -84,15 +86,21 @@ My research interests lie at the intersection of Computational Linguistics, Natu
 
 **Context-Aware Emotion Detection and Reasoning in Literary Texts Using Large Language Models**
 
+## PhD Research
+
+<strong>Context-Aware Emotion Detection and Reasoning in Literary Texts Using Large Language Models</strong>
+
+<em>Implicit Emotion, Narrative Context, and Cognitive Appraisal</em>
+
 My doctoral research investigates the capabilities and limitations of Large Language Models for interpreting emotions in literary narrative, particularly when emotional meaning is implicit, context-dependent, and distributed across characters, events, and narrative perspective.
 
 ## Publications & Conference Papers
 
-- Kalogeros, E., <strong>Rodi, M.</strong>, Stamou, S., Micheli, A., Karakitsiou, C., & Gergatsoulis, M. (2026). *Chasing emotion: A preliminary study of implicit and explicit emotion classification in Greek using SetFit and sentence embeddings.* Paper accepted for presentation at the 12th Balkan Conference in Informatics (BCI 2026), Thessaloniki, Greece, 11–14 October 2026.
+- Kalogeros, E., <strong>Rodi, M.</strong>, Stamou, S., Micheli, A., Karakitsiou, C., & Gergatsoulis, M. (2026). <em>Chasing emotion: A preliminary study of implicit and explicit emotion classification in Greek using SetFit and sentence embeddings.</em> Paper accepted for presentation at the 12th Balkan Conference in Informatics (BCI 2026), Thessaloniki, Greece, 11–14 October 2026.
 
-- Solomonidi, I., <strong>Rodi, A.</strong>, & Tsononas, G. (2025). *Enabling discovery: Open access to rare historical maps and 19th-century Greek journals from the Gennadius Library collection via the library’s catalogue.* Paper presented at the EEBEP Conference 2025, Kalabaka, Greece, 11–13 June 2025. Manuscript submitted for inclusion in the conference proceedings.
+- Solomonidi, I., <strong>Rodi, A.</strong>, & Tsononas, G. (2025). <em>Enabling discovery: Open access to rare historical maps and 19th-century Greek journals from the Gennadius Library collection via the library’s catalogue.</em> Paper presented at the EEBEP Conference 2025, Kalabaka, Greece, 11–13 June 2025. Manuscript submitted for inclusion in the conference proceedings.
 
-- Giannakopoulos, G., Gkouvousi, A., Belsis, P., Paliouras, G., Papatheodorou, C., <strong>Rodi, A.</strong>, & Skourlas, C. (2007). *Εξατομίκευση διδασκαλίας και πληροφόρησης στην ανώτατη εκπαίδευση* [Personalization of teaching and information provision in higher education]. *e-Journal of Science & Technology, 2*(3), 1–18.
+- Giannakopoulos, G., Gkouvousi, A., Belsis, P., Paliouras, G., Papatheodorou, C., <strong>Rodi, A.</strong>, & Skourlas, C. (2007). <em>Εξατομίκευση διδασκαλίας και πληροφόρησης στην ανώτατη εκπαίδευση</em> [Personalization of teaching and information provision in higher education]. *e-Journal of Science & Technology, 2*(3), 1–18.
 
 
 ## Education
@@ -169,7 +177,7 @@ Italian: Basic knowledge
 </a>
 
 
-## Contact
+## Contact & Academic Profiles
 
 Email: <a href="mailto:mina.mfh@gmail.com">mina.mfh@gmail.com</a><br>
 ORCID: <a href="https://orcid.org/0009-0007-5313-030X" target="_blank">0009-0007-5313-030X</a>
