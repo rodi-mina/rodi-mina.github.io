@@ -121,7 +121,9 @@ Python and SQL at intermediate level.
 
 ## CV
 
-<a href="Mina_Rodi_CV.pdf" target="_blank">Download CV</a>
+<a href="Mina_Rodi_CV.pdf" target="_blank" style="display:inline-block; padding:8px 14px; border:1px solid #999; border-radius:6px; text-decoration:none; font-weight:500;">
+  Download CV
+</a>
 
 ## Contact
 
