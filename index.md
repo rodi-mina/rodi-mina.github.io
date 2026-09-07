@@ -54,16 +54,20 @@ My research interests lie at the intersection of Computational Linguistics, Natu
 
 ## Research Interests
 
-- Computational Linguistics
-- Natural Language Processing
-- Large Language Models
-- Emotion Detection and Emotion Reasoning
-- Computational Literary Studies
-- Digital Humanities
-- Narrative Context
-- Cognitive Appraisal
-- Multilingual and Cross-Lingual Emotion Analysis
-- Evidence-Grounded NLP
+<div style="display:flex; flex-wrap:wrap; gap:8px; margin-top:10px; margin-bottom:24px;">
+
+  <span style="border:1px solid #ccc; border-radius:14px; padding:5px 10px;">Computational Linguistics</span>
+  <span style="border:1px solid #ccc; border-radius:14px; padding:5px 10px;">Natural Language Processing</span>
+  <span style="border:1px solid #ccc; border-radius:14px; padding:5px 10px;">Large Language Models</span>
+  <span style="border:1px solid #ccc; border-radius:14px; padding:5px 10px;">Emotion Detection and Emotion Reasoning</span>
+  <span style="border:1px solid #ccc; border-radius:14px; padding:5px 10px;">Computational Literary Studies</span>
+  <span style="border:1px solid #ccc; border-radius:14px; padding:5px 10px;">Digital Humanities</span>
+  <span style="border:1px solid #ccc; border-radius:14px; padding:5px 10px;">Narrative Context</span>
+  <span style="border:1px solid #ccc; border-radius:14px; padding:5px 10px;">Cognitive Appraisal</span>
+  <span style="border:1px solid #ccc; border-radius:14px; padding:5px 10px;">Multilingual and Cross-Lingual Emotion Analysis</span>
+  <span style="border:1px solid #ccc; border-radius:14px; padding:5px 10px;">Evidence-Grounded NLP</span>
+
+</div>
 
 ## PhD Research
 
