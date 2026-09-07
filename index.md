@@ -90,4 +90,13 @@ ALEPH 24, Horizon, Millennium, ABEKT, OpenABEKT, ADVANCE, Koha, and DSpace.
 
 Python and SQL at intermediate level.
 
+## CV
+
+<a href="Mina_Rodi_CV.pdf" target="_blank">Download CV</a>
+
+## Contact
+
+Email: mina.mfh@gmail.com  
+ORCID: https://orcid.org/0009-0007-5313-030X
+
 
