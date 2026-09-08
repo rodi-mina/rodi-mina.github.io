@@ -44,6 +44,7 @@ p {
   <a href="#publications--conference-papers">Publications</a>
   <a href="#education">Education</a>
   <a href="#professional-experience">Experience</a>
+  <a href="#professional-projects">Projects</a>
   <a href="#professional-development">Development</a>
   <a href="#languages">Languages</a>
   <a href="#cv">CV</a>
@@ -142,6 +143,23 @@ The Gennadius Library, American School of Classical Studies at Athens
 - Performed retrospective cataloguing of post-revolutionary Greek and foreign periodicals and newspapers.
 - Enhanced catalogue records with electronic resources and descriptions of supplementary material found within periodical publications.
 - Documented inserts preserved within periodical volumes, including correspondence between Joannes Gennadius and publishers.
+
+
+ ## Professional Projects
+
+ <p>
+<strong>Enabling Discovery: Open Access to Rare Historical Maps and 19th-Century Greek Journals from the Gennadius Library Collection via the Library's Catalogue</strong>
+</p>
+
+<p>
+<em>My contribution: Discovering 19th-Century Greek Periodicals through the Scrapbooks of Joannes Gennadius</em>
+</p>
+<p>
+This contribution focuses on the cataloguing and digital accessibility of rare 19th-century Greek newspapers and periodicals preserved in the scrapbooks of Joannes Gennadius. It covers the preparation and management of digital objects, MARC 21 cataloguing in ALEPH v.24, integration with the AMBROSIA catalogue, and the development of an internal catalogue for the systematic management of the digitised scrapbook collection.
+</p>
+<p>
+<em>Presented as part of the EEBEP Conference 2025 paper on open access to rare historical maps and 19th-century Greek journals from the Gennadius Library collections.</em>
+</p>
 
 
 ## Technical Skills
