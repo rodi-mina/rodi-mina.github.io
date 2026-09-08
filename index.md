@@ -131,6 +131,9 @@ This thesis explores personalization, user modelling, cross-language information
 <strong>Degree in Library Science and Information Systems</strong>  
 Technological Educational Institute of Athens, Department of Library Science and Information Systems, 2000–2004  
 Undergraduate thesis: <em>Digital Libraries and an Overview of Greenstone Digital Library Software</em>
+<p>
+This thesis examines the architecture and core technical components of digital library systems, including collection organisation, metadata, indexing, search and retrieval, and the management of digital objects. It also considers Greenstone as a platform for building and providing access to digital collections, connecting these functions with the broader development of institutional and digital repositories.
+</p>
 
 
 ## Professional Experience
