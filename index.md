@@ -106,11 +106,18 @@ My doctoral research investigates the capabilities and limitations of Large Lang
 ## Publications & Conference Papers
 
 - Kalogeros, E., <strong>Rodi, M.</strong>, Stamou, S., Micheli, A., Karakitsiou, C., & Gergatsoulis, M. (2026). <em>Chasing emotion: A preliminary study of implicit and explicit emotion classification in Greek using SetFit and sentence embeddings.</em> Paper accepted for presentation at the 12th Balkan Conference in Informatics (BCI 2026), Thessaloniki, Greece, 11–14 October 2026.
+  <p>
+This preliminary study investigates multi-label emotion classification in Greek using SetFit and multilingual sentence embeddings, comparing a historical Katharevousa corpus from the Archive of Ioannis Kapodistrias with a contemporary Modern Greek corpus based on <em>The Diary of Anne Frank</em>. The study examines implicit and explicit emotional expression and finds that class balance, category coherence, and sufficient training examples may influence performance more strongly than emotional explicitness alone.
+</p>
 
-- Solomonidi, I., <strong>Rodi, A.</strong>, & Tsononas, G. (2025). <em>Enabling discovery: Open access to rare historical maps and 19th-century Greek journals from the Gennadius Library collection via the library’s catalogue.</em> Paper presented at the EEBEP Conference 2025, Kalabaka, Greece, 11–13 June 2025. Manuscript submitted for inclusion in the conference proceedings.
+- Solomonidi, I., <strong>Rodi, A.</strong>, & Tsononas, G. (2025).
+<a href="#professional-projects"><em>Enabling discovery: Open access to rare historical maps and 19th-century Greek journals from the Gennadius Library collection via the library’s catalogue.</em></a>
+Paper presented at the EEBEP Conference 2025, Kalabaka, Greece, 11–13 June 2025. Manuscript submitted for inclusion in the conference proceedings.
 
 - Giannakopoulos, G., Gkouvousi, A., Belsis, P., Paliouras, G., Papatheodorou, C., <strong>Rodi, A.</strong>, & Skourlas, C. (2007). <em>Εξατομίκευση διδασκαλίας και πληροφόρησης στην ανώτατη εκπαίδευση</em> [Personalization of teaching and information provision in higher education]. *e-Journal of Science & Technology, 2*(3), 1–18.
-
+<p>
+This paper presents the PELAS system, a personalised web-based e-learning support architecture integrating information extraction, user modelling, machine learning, and selective dissemination of information for academic environments.
+</p>
 
 ## Education
 
