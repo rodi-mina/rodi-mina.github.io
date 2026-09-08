@@ -124,6 +124,9 @@ This paper presents the PELAS system, a personalised web-based e-learning suppor
 <strong>MSc in Information Science</strong>  
 Ionian University, Department of Archives and Library Science, 2006–2008  
 Master’s thesis: <em>Personalization and Content-Based Cross-Language Information Retrieval</em>
+<p>
+This thesis explores personalization, user modelling, cross-language information retrieval, web mining, and personalised e-learning, with particular emphasis on the PELAS system and the role of academic libraries in personalised information services.
+</p>
 
 <strong>Degree in Library Science and Information Systems</strong>  
 Technological Educational Institute of Athens, Department of Library Science and Information Systems, 2000–2004  
