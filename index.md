@@ -93,9 +93,7 @@ My research interests lie at the intersection of Computational Linguistics, Natu
 
 </div>
 
-## PhD Research
 
-**Context-Aware Emotion Detection and Reasoning in Literary Texts Using Large Language Models**
 
 ## PhD Research
 
