@@ -106,8 +106,8 @@ My doctoral research investigates the capabilities and limitations of Large Lang
 ## Publications & Conference Papers
 
 - Kalogeros, E., <strong>Rodi, M.</strong>, Stamou, S., Micheli, A., Karakitsiou, C., & Gergatsoulis, M. (2026). <em>Chasing emotion: A preliminary study of implicit and explicit emotion classification in Greek using SetFit and sentence embeddings.</em> Paper accepted for presentation at the 12th Balkan Conference in Informatics (BCI 2026), Thessaloniki, Greece, 11–14 October 2026.
-  <p>
-This preliminary study investigates multi-label emotion classification in Greek using SetFit and multilingual sentence embeddings, comparing a historical Katharevousa corpus from the Archive of Ioannis Kapodistrias with a contemporary Modern Greek corpus based on <em>The Diary of Anne Frank</em>. The study examines implicit and explicit emotional expression and finds that class balance, category coherence, and sufficient training examples may influence performance more strongly than emotional explicitness alone.
+<p>
+This study compares implicit and explicit emotion classification in historical and contemporary Greek using SetFit and multilingual sentence embeddings.
 </p>
 
 - Solomonidi, I., <strong>Rodi, A.</strong>, & Tsononas, G. (2025).
