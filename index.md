@@ -145,7 +145,7 @@ The Gennadius Library, American School of Classical Studies at Athens
 - Documented inserts preserved within periodical volumes, including correspondence between Joannes Gennadius and publishers.
 
 
- ## Professional Projects
+ <h2 id="professional-projects">Professional Projects</h2>
 
  <p>
 <strong>Enabling Discovery: Open Access to Rare Historical Maps and 19th-Century Greek Journals from the Gennadius Library Collection via the Library's Catalogue</strong>
