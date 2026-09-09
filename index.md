@@ -64,7 +64,7 @@ p {
     </p>
     <p style="margin:0;">
       The Gennadius Library, American School of Classical Studies at Athens, Greece<br>
-      Ionian University
+Ionian University, Corfu, Greece
     </p>
   </div>
 
