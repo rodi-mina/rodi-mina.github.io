@@ -64,9 +64,9 @@ p {
     </p>
     <p style="margin:0;">
   The Gennadius Library, American School of Classical Studies at Athens<br>
-  Athens, Greece<br>
+  <span style="font-size:0.92em;">Athens, Greece</span><br><br>
   Ionian University<br>
-  Corfu, Greece
+  <span style="font-size:0.92em;">Corfu, Greece</span>
 </p>
   </div>
 
