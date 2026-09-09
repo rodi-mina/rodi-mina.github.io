@@ -215,7 +215,7 @@ Italian: Basic knowledge
 
 <h2 id="cv">CV</h2>
 
-<a href="Rodi_Mina_CV.pdf"
+<a href="Rodi_Mina_CV_updated.pdf"
    target="_blank"
    style="
    display:inline-block;
