@@ -47,7 +47,6 @@ p {
   <a href="#professional-projects">Projects</a>
   <a href="#professional-development">Development</a>
   <a href="#languages">Languages</a>
-  <a href="#cv">CV</a>
   <a href="#contact--academic-profiles">Contact</a>
 </div>
 
@@ -119,6 +118,7 @@ Paper presented at the EEBEP Conference 2025, Kalabaka, Greece, 11–13 June 202
 <p>
 This paper presents the PELAS system, a personalised web-based e-learning support architecture integrating information extraction, user modelling, machine learning, and selective dissemination of information for academic environments.
 </p>
+
 
 ## Education
 
@@ -211,20 +211,6 @@ English: Michigan Advanced Proficiency in English; Cambridge First Certificate i
 Italian: Basic knowledge
 
 
-## CV
-
-<a href="Rodi_Mina_cv_public_eng.pdf"
-   target="_blank"
-   style="
-   display:inline-block;
-   padding:10px 16px;
-   border:1px solid #888;
-   border-radius:8px;
-   text-decoration:none;
-   font-weight:600;
-   margin-top:6px;">
-  Download CV
-</a>
 
 
 ## Contact & Academic Profiles
