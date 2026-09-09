@@ -176,11 +176,21 @@ This contribution focuses on the cataloguing and digital accessibility of rare 1
 
 ## Technical Skills
 
-MARC 21, UNIMARC, Dublin Core, BIBFRAME, EAD, RDF, XML, ISO 2709, Z39.50, ontologies and taxonomies; AACR2, RDA, ISBD, LCSH, LCC, DDC, and authority control.
+<p>
+Experienced in bibliographic and metadata standards including MARC 21, UNIMARC, Dublin Core, VRA Core, BIBFRAME, EAD, RDF, ISO 2709, and Z39.50, as well as cataloguing standards and controlled vocabularies such as AACR2, RDA, ISBD, LCSH, LCC, DDC, and authority control.
+</p>
 
-ALEPH 24, Horizon, Millennium, ABEKT, OpenABEKT, ADVANCE, Koha, and DSpace.
+<p>
+Practical experience with integrated library systems and digital repository platforms, including ALEPH 24, Horizon, Millennium, ABEKT, OpenABEKT, ADVANCE, Koha, and DSpace.
+</p>
 
-Python and SQL at intermediate level.
+<p>
+Experience with digital object management, digitisation workflows, metadata standardisation, serials and holdings management, and the organisation and linking of digital collections within library discovery environments.
+</p>
+
+<p>
+Technical knowledge of HTML and XML, with intermediate-level Python and SQL.
+</p>
 
 
 ## Professional Development
