@@ -47,6 +47,7 @@ p {
   <a href="#professional-projects">Projects</a>
   <a href="#professional-development">Development</a>
   <a href="#languages">Languages</a>
+  <a href="#cv">CV</a>
   <a href="#contact--academic-profiles">Contact</a>
 </div>
 
@@ -211,6 +212,21 @@ Greek: Native
 English: Michigan Advanced Proficiency in English; Cambridge First Certificate in English  
 Italian: Basic knowledge
 
+
+<h2 id="cv">CV</h2>
+
+<a href="Rodi_Mina_CV.pdf"
+   target="_blank"
+   style="
+   display:inline-block;
+   padding:10px 16px;
+   border:1px solid #888;
+   border-radius:8px;
+   text-decoration:none;
+   font-weight:600;
+   margin-top:6px;">
+  Download CV
+</a>
 
 
 
