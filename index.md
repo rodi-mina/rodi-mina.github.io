@@ -102,7 +102,7 @@ My research interests lie at the intersection of Computational Linguistics, Natu
 
 <em>Implicit Emotion, Narrative Context, and Cognitive Appraisal</em>
 
-My doctoral research investigates the capabilities and limitations of Large Language Models for interpreting emotions in literary narrative, particularly when emotional meaning is implicit, context-dependent, and distributed across characters, events, and narrative perspective.
+My research interests lie at the intersection of Computational Linguistics, Natural Language Processing, Computational Literary Studies, and Digital Humanities. My doctoral research investigates the capabilities and limitations of Large Language Models for context-aware emotion detection and reasoning in literary texts, with particular emphasis on implicit emotion, narrative context, relational emotion structure, cognitive appraisal, and evidence-grounded interpretation. From a computational perspective, the research focuses on the representation, modelling, and evaluation of emotion in text, including context-dependent inference, structured emotion relations, corpus annotation, and the analysis of model behaviour and errors.
 
 ## Publications & Conference Papers
 
