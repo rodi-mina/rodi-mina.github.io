@@ -194,7 +194,7 @@ Technical knowledge of HTML and XML, with intermediate-level Python and SQL.
 
 
 
-## PROFESSIONAL DEVELOPMENT
+## Professional Development
 
 <strong>Introduction to Programming with Python</strong><br>
 University of Ioannina, Center for Continuing Education and Lifelong Learning, 2025<br>
