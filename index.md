@@ -103,6 +103,7 @@ My research interests lie at the intersection of Computational Linguistics, Natu
 My doctoral research examines how Large Language Models can identify and reason about emotions in literary narrative when emotional meaning is implicit, context-dependent, and distributed across characters and events. The study focuses on the representation and evaluation of emotion in text, including narrative context, experiencer and emotion-cause relations, cognitive appraisal, evidence-grounded interpretation, corpus annotation, and the analysis of model behaviour and errors.
 </p>
 
+
 ## Publications & Conference Papers
 
 - Kalogeros, E., <strong>Rodi, M.</strong>, Stamou, S., Micheli, A., Karakitsiou, C., & Gergatsoulis, M. (2026). <em>Chasing emotion: A preliminary study of implicit and explicit emotion classification in Greek using SetFit and sentence embeddings.</em> Paper accepted for presentation at the 12th Balkan Conference in Informatics (BCI 2026), Thessaloniki, Greece, 11–14 October 2026.
@@ -142,7 +143,7 @@ This thesis examines the architecture and core technical components of digital l
 The Gennadius Library, American School of Classical Studies at Athens  
 2014–Present
 
-- Manage periodicals processing and cataloguing workflows in ALEPH 24, including check-in, metadata standardization, RFID processing, claims, and binding.
+- Manage periodicals workflows in ALEPH 24, including check-in, metadata standardisation, RFID processing, claims for donated periodicals, and binding preparation and follow-up.
 - Perform original and copy cataloguing of donations from private collections.
 - Contribute to collection development through acquisition recommendations and the evaluation and coordination of donated materials.
 - Provide reference services and orientations for new library patrons.
@@ -151,7 +152,7 @@ The Gennadius Library, American School of Classical Studies at Athens
 The Gennadius Library, American School of Classical Studies at Athens  
 2007–2014
 
-- Performed retrospective cataloguing of post-revolutionary Greek and foreign periodicals and newspapers.
+- Catalogued the entire periodicals collection in ALEPH 24, including retrospective cataloguing of Greek and foreign periodicals and newspapers.
 - Enhanced catalogue records with electronic resources and descriptions of supplementary material found within periodical publications.
 - Documented inserts preserved within periodical volumes, including correspondence between Joannes Gennadius and publishers.
 
@@ -218,7 +219,7 @@ Italian: Basic knowledge
 
 ## Contact & Academic Profiles
 
-Email: <a href="mailto:mina.mfh@gmail.com">mina.mfh@gmail.com</a><br>
+Email: <a href="mailto:mina.rodi.research@gmail.com">mina.rodi.research@gmail.com</a><br>
 ORCID: <a href="https://orcid.org/0009-0007-5313-030X" target="_blank">0009-0007-5313-030X</a>
 
 
