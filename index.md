@@ -63,10 +63,8 @@ p {
       Assistant Librarian, Periodicals · PhD Candidate in Information Science
     </p>
     <p style="margin:0;">
-  The Gennadius Library, American School of Classical Studies at Athens<br>
-  <span style="font-size:0.92em;">Athens, Greece</span><br><br>
-  Ionian University<br>
-  <span style="font-size:0.92em;">Corfu, Greece</span>
+  The Gennadius Library, American School of Classical Studies at Athens, Greece<br>
+  Ionian University, Corfu, Greece
 </p>
   </div>
 
