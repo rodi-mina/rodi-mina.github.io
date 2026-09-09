@@ -193,19 +193,15 @@ Technical knowledge of HTML and XML, with intermediate-level Python and SQL.
 </p>
 
 
-### Professional Development
+## PROFESSIONAL DEVELOPMENT
 
-<p>
 <strong>Introduction to Programming with Python</strong><br>
 University of Ioannina, Center for Continuing Education and Lifelong Learning, 2025<br>
 Certificate of Completion · 60 hours · Distance learning
-</p>
 
-<p>
 <strong>Object-Oriented Analysis and Modeling with UML</strong><br>
 Technological Educational Institute of Lamia, Department of Computer Science & Computer Technology, 2007–2008<br>
 Online training course
-</p>
 
 
 ## Languages
