@@ -63,7 +63,7 @@ p {
       Assistant Librarian, Periodicals · PhD Candidate in Information Science
     </p>
     <p style="margin:0;">
-      The Gennadius Library, American School of Classical Studies at Athens<br>
+      The Gennadius Library, American School of Classical Studies at Athens, Greece<br>
       Ionian University
     </p>
   </div>
@@ -72,8 +72,9 @@ p {
 
 ## About
 
-I am an Assistant Librarian responsible for the Periodicals Collection at the Gennadius Library of the American School of Classical Studies at Athens, and a PhD Candidate in Information Science at Ionian University.
-
+<p>
+I am an Assistant Librarian responsible for the Periodicals Collection at the Gennadius Library of the American School of Classical Studies at Athens, Greece, and a PhD Candidate in Information Science at Ionian University.
+</p>
 My research interests lie at the intersection of Computational Linguistics, Natural Language Processing, Computational Literary Studies, and Digital Humanities. My doctoral research investigates the capabilities and limitations of Large Language Models for context-aware emotion detection and reasoning in literary texts, with particular emphasis on implicit emotion, narrative context, relational emotion structure, cognitive appraisal, and evidence-grounded interpretation.
 
 ## Research Interests
