@@ -177,7 +177,7 @@ This contribution focuses on the cataloguing and digital accessibility of rare 1
 ## Technical Skills
 
 <p>
-Experienced in bibliographic and metadata standards including MARC 21, UNIMARC, Dublin Core, VRA Core, BIBFRAME, EAD, RDF, ISO 2709, and Z39.50, as well as cataloguing standards and controlled vocabularies such as AACR2, RDA, ISBD, LCSH, LCC, DDC, and authority control.
+Experienced in bibliographic and metadata standards including MARC 21, UNIMARC, Dublin Core, VRA Core, BIBFRAME, EAD, and RDF, together with library data exchange and interoperability standards such as ISO 2709 and Z39.50.
 </p>
 
 <p>
